@@ -1,1 +1,1 @@
-# Twitter_Sentiment_Analysis_Using_RNN_and_TF-IDF
+# Sentiment Analysis on tweets using Recurring Neural Networks and TF-IDF
